@@ -1,0 +1,6 @@
+{
+	"db_host": "localhost",
+	"db_user": "mysqluser",
+	"db_pass": "mysqlpass",
+	"db_name": "bbs"
+}
